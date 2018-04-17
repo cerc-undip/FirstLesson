@@ -1,2 +1,2 @@
 # Git First Lesson Software
-Just the ordinary first lesson edited by Haz.
+Just the ordinary first lesson edited by Haz. The Second update.
