@@ -1,0 +1,23 @@
+belajar tentang form html dan memindahkan nilainya ke php
+
+ada 2 metode pemindahan yaitu post dan get
+
+pada tag form terdapat beberapa atribut
+1. action : digunakan untuk mengarahkan nilai dari inputan ke sebuah file .php yang digunakan untuk memproses data
+2. method : metode pengiriman nilai
+3. class dan id :
+4 enctype : biasanya digunakan untuk input file
+
+atribut pada tag input
+1. type: jenis inputan 
+	a. text : 
+	b. password : 
+	c. email :
+	d. date : 
+	e. file	:
+	f. color: 
+	g. checkbox
+	h. radio:
+2. name : identitas sebuah inputan
+3. placeholder : watermark sebuah inputan
+4. value : nilai dari sebuah inputan
